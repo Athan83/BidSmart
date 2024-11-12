@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769820213077",
+    "project_id": "water-refilling-station-36aeb",
+    "storage_bucket": "water-refilling-station-36aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769820213077:android:d619190d863a59163a79dc",
+        "android_client_info": {
+          "package_name": "com.garinga.bidding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsfVQm-4MnEurXrbIYgUQWTrjQm0BuO1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769820213077:android:cccab2cacddebc6d3a79dc",
+        "android_client_info": {
+          "package_name": "com.lu.wrs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsfVQm-4MnEurXrbIYgUQWTrjQm0BuO1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
